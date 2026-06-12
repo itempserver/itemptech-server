@@ -1,0 +1,16 @@
+{
+  "name": "itemptech-console",
+  "version": "1.0.0",
+  "description": "Itemptech consoles + DingTalk SSO backend (app.itemptech.com)",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.19.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
